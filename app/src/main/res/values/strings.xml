@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">SharedPreferences_SQLlite</string>
+    <string name="nombre">Nombre</string>
+    <string name="nombre_completo">Nombre completo</string>
+    <string name="telefono">Telefono</string>
+    <string name="numero">Numero</string>
+    <string name="email">Email</string>
+    <string name="correo_electronico">Correo electronico</string>
+    <string name="enviar">Enviar</string>
+    <string name="app_telefono">App Telefono</string>
+</resources>
